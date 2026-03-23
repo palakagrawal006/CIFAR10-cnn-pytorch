@@ -27,8 +27,8 @@ CIFAR-10 dataset (automatically downloaded using torchvision)
 
 
 ## 📊 Output
--Training loss per epoch
--Model accuracy on test data
+- Training loss per epoch
+- Model accuracy on test data
 
 
 
